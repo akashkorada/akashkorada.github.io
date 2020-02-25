@@ -1,0 +1,53 @@
+
+<html>
+<head>
+<titleQUALIFICATION</title>
+<style>
+h1{color:deeppink;
+font-family:verdana;
+font-size:300%;
+}
+body{background-image:url("j.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+}
+table{font-family:verdana;
+border:2px solid blue;
+width:100%;
+margin:40px;
+}
+td {font-size:200%;
+border:2px solid blue;
+text align:lef;
+}
+</style>
+</head>
+<body>
+<h1 align="middle">QUALIFICATION</h1>
+<table>
+<tr>
+<th><b>class</b></th>
+<th><b>institute or school</b></th>
+<th><b>percentege</b></th>
+</tr>
+<td>10 class</td>
+<td> bradlaugh high school</td>
+<td>95%</td>
+</tr>
+<td>intermediateL</td>
+<td>sri chaitanya junior college</td>
+<td>90%</td>
+</tr>
+<tr>
+<td>JEE MAINS</td>
+<td>examination</td>
+<td>97.65(perentile)</td>
+</tr>
+<tr>
+<td>btech(present)</td>
+<td>indian instute of information and technology,kota</td>
+<td>__</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,150 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>HTML</title>
+  <style>
+    body {
+      background-video: url(r.jpeg);
+      background-repeat: no-repeat;
+      background-size: 100% 180%;
+    }
+
+    h1.beg {
+      color: red;
+      text-align: center;
+      font-size: 70px;
+    }
+
+    a:link {
+      color: blue;
+      background-color: transparent;
+      text-decoration: none;
+transition:0.7s;
+    }
+
+    a:visited {
+      color: blue;
+      background-color: solid green;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: red;
+      background-color: transparent;
+      text-decoration: underline;
+font-size:25px;
+	border:2px solid white;
+	padding:10px;
+	border-radius:70px;
+    }
+
+    a:active {
+      color: yellow;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+
+    td {
+      padding: 5px;
+      box-shadow: 5px 5px 20px brown;
+      text-shadow: 1px 2px 20px pink;
+    }
+  </style>
+</head>
+
+<body>
+  <table align=right>
+    <td><a href="homepage.html"><b>HOMEPAGE</b></a></td>
+    <td><a href="aboutme.html"><b>ABOUTME</b></a></td>
+    <td><a href="location.html"><b>LOCATION</b></a></td>
+    <td><a href="ak1.html"><b>QUALIFICATIONS</b></a></td>
+    <td><a href="projects.html"><b>PROJECTS</b></a></td>
+    <td><a href="cources.html"><b>COURSES IN SEMESTER</b></a></td>
+    <td><a href="html.htm"><b>HTML</b></a></td>
+  </table>
+  <br>
+  <br>
+  <h1
+    style="text-align:center;font-size:100px;color:red;text-decoration:underline;box-shadow:5px 5px 20px brown;text-shadow:5px 5px 20px black;">
+    HTML</h1><br>
+  <h1 style="color:green;
+font-size:30px;">HTML stands for hyper text markup language.With HTML you can create web development.<br>
+    HTML describes the structure of a Web page.<br>
+    HTML consists of a series of elements.<br>
+    HTML elements tell the browser how to display the content.<br>
+    HTML elements are represented by tags<br>
+    You will enjoy them!<br></h1>
+  <pre style="font-size:20px;color:brown;">
+<h2 style="color:red;">Following are some of the html elements-</h2>
+HTML tag: It is the root of the html document which is used to specify that the document is html.<hr>
+
+Head tag: Head tag is used to contain all the head element in the html file. It contains the title, style, meta, … etc tag.<hr>
+
+Body tag: It is used to define the body of html document. It contains image, tables, lists, … etc.<hr>
+
+Heading tag: It is used to define the heading of the html.<hr>
+
+Underline tag: It is used to set the content underline.<hr>
+
+Deleted text tag: It is used to represent as deleted text. It cross the text content.<hr>
+
+Font tag: It is used to specify the font size, font color and font-family in html document.<hr>
+
+Empty (Non-Container) Tags:<hr>
+
+Line break tag: It is used to break the line.
+
+Image tag: It is used to add image element in html document.<hr>
+
+Link tag: It is used to link the content from external source.<hr>
+
+progress: Display the progress of an action, such as with a script.<hr
+
+rb: For Ruby annotations.<hr>
+
+rp: Specify text to be displayed when Ruby annotations are not supported by the browser.<hr>
+
+rt: Text component of a Ruby annotation.<hr>
+
+iframe: Makes it possible to embed another page within a page. In HTML5 this is known as nested browsing.<hr>
+
+img: For displaying images on a webpage. <hr>
+
+input: Input is used with various attributes to create form input elements.<hr>
+
+data: Used for script friendly data.<hr>
+
+datalist: New in HTML5. Specify predefined data for an input.<hr>
+
+dd: For description lists. Use with dt and dl tags.<hr>
+
+del: Mark text as deleted without actually deleting it. This will typically be rendered as a strikethrough.<hr>
+
+dfn: Use when first defining a term.<hr>
+
+dialog: Dialog box.<hr>
+
+div: A divider or a kind of generic container.<hr>
+
+s: For marking up text that is not longer relevant, applicable, or accurate.<hr>
+
+script: Scripts inside of an HTML document are enclosed in the script tags.<hr>
+
+source: Used with audio and video tags for specifying media source.<hr>
+
+strong: The enclosed text is of strong importance.<hr>
+
+style: For declaring style sheets within a document.<hr>
+
+sup: For displaying superscript. Useful for math, especially in conjunction with sub tag(subscript).<hr>
+
+
+</pre>
+
+  <h1 class="beg" style="box-shadow:5px 5px 20px blue;text-shadow:5px 5px 5px black;">FOR MORE DETAILS VISIT:<br>
+    <a href="https://www.w3schools.com/">W3SCHOOLS</a><br></h1>
+
+</body>
+
+</html>
