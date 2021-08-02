@@ -1,0 +1,59 @@
+{
+	"basics": {
+		"name": "---Enter Your Name---",
+		"label": "Student",
+		"picture": "https://drive.google.com/file/d/15po42u4NhLEN3QgJePLSvYTL1o_VVmOu/view?usp=sharing ",
+		"email": "koradaakash@gmail.com",
+		"phone": "7731021605",
+		"website": "No",
+		"summary": " i am good at c language and others",
+		"location": {
+			"address": "kotabommali mainroad,kotabommali village,srikakulam district,andhrapradesh.",
+			"postalCode": "532195",
+			"city": "srikakulam",
+			"countryCode": "India",
+			"region": "andhrapradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Akasshkorada1",
+				"url": "https://twitter.com/Akashkorada1?s=09"
+			},
+			{
+				"network": "Github",
+				"username": "akashkorada",
+				"url": "https://github.com/akashkorada"
+			},
+			{
+				"network": "linkedin",
+				"username": "Akash Korada",
+				"url": "https://www.linkedin.com/in/akash-korada-4991221b8/"
+			},
+			{
+				"network": "Instagram",
+				"username": "mr_akashaustin",
+				"url": "https://www.instagram.com/mr_akashaustin/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-04-08 //Date",
+		"endDate": "----",
+		"gpa": "5.8",
+		"courses": [
+			"Electronics and Communications Engineering "
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Carroms", "Badminton"]
+	}],
+	"references": []
+}
